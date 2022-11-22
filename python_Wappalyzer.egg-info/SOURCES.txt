@@ -1,0 +1,17 @@
+LICENSE
+README.rst
+setup.py
+Wappalyzer/Wappalyzer.py
+Wappalyzer/__init__.py
+Wappalyzer/__main__.py
+Wappalyzer/fingerprint.py
+Wappalyzer/data/technologies.json
+Wappalyzer/webpage/__init__.py
+Wappalyzer/webpage/_bs4.py
+Wappalyzer/webpage/_common.py
+Wappalyzer/webpage/_stdlib.py
+python_Wappalyzer.egg-info/PKG-INFO
+python_Wappalyzer.egg-info/SOURCES.txt
+python_Wappalyzer.egg-info/dependency_links.txt
+python_Wappalyzer.egg-info/requires.txt
+python_Wappalyzer.egg-info/top_level.txt
